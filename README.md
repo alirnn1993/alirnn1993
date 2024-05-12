@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alireza niknafs
+- 👋 Hi, I’m Alireza Niknafs
 - 👀 I’m interested in programming in many fields
 - 🌱 I’m currently learning ARM micro controllers programming
 - 💞️ I’m looking to collaborate on ...
